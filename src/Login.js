@@ -65,7 +65,7 @@ function Login() {
 
                 </form>
 
-                <p>By siging-in, you agree to be my bitch</p>
+                <p>By siging-in, you agree with our term</p>
                 <button onClick={register}className="login__registerButton"> Create account</button>
             </div>
         </div>
